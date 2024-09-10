@@ -1,7 +1,7 @@
 # Memory Allocation Algorithms
 
 This repository implements three memory allocation algorithms: Best-Fit, First-Fit, and Worst-Fit. 
-Each algorithm has its unique approach to managing and allocating memory.
+Each algorithm has its unique approach to managing and allocating memory.  
 
 
 ## Best-Fit
